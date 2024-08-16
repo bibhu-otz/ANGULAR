@@ -142,4 +142,3 @@ This repository is licensed under the MIT License. For more details, see the [LI
 
 **Let's build amazing Angular applications together!** 🎉
 
-![Angular Animation](https://angular.io/generated/images/marketing/home/angular-animation.svg)
